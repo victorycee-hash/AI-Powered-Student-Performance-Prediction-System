@@ -1,0 +1,21 @@
+student_id,hours_studied,course,course_title,credit_unit,continuous_assessment,exam_score,semester,extra_curricular
+STU001,2,CS101,Introduction to Programming,3,21,42,Fall 2024,Yes
+STU002,5,CS102,Data Structures,4,27,56,Fall 2024,No
+STU003,3,CS101,Introduction to Programming,3,18,49,Spring 2024,Yes
+STU004,7,CS103,Database Systems,3,28,63,Fall 2024,Yes
+STU005,4,CS102,Data Structures,4,24,52,Spring 2024,No
+STU006,6,CS101,Introduction to Programming,3,26,58,Fall 2024,Yes
+STU007,8,CS103,Database Systems,3,29,65,Spring 2024,Yes
+STU008,3,CS102,Data Structures,4,20,44,Fall 2024,No
+STU009,5,CS101,Introduction to Programming,3,25,53,Spring 2024,Yes
+STU010,4,CS103,Database Systems,3,22,48,Fall 2024,No
+STU011,7,CS101,Introduction to Programming,3,28,64,Fall 2024,Yes
+STU012,6,CS102,Data Structures,4,26,59,Spring 2024,No
+STU013,5,CS103,Database Systems,3,24,55,Fall 2024,Yes
+STU014,8,CS101,Introduction to Programming,3,29,67,Spring 2024,Yes
+STU015,4,CS102,Data Structures,4,23,51,Fall 2024,No
+STU016,6,CS103,Database Systems,3,27,60,Spring 2024,Yes
+STU017,3,CS101,Introduction to Programming,3,19,45,Fall 2024,No
+STU018,7,CS102,Data Structures,4,28,62,Spring 2024,Yes
+STU019,5,CS103,Database Systems,3,25,56,Fall 2024,Yes
+STU020,4,CS101,Introduction to Programming,3,22,50,Spring 2024,No
